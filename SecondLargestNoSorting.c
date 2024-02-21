@@ -29,7 +29,7 @@ void main() {
     for (i = 0; i < n; i++) {
         if (i == j) {
             i++;  // Ignore the largest element
-            i--;
+            
         } else {
             if (lrg2nd < arr1[i]) {
                 lrg2nd = arr1[i];
