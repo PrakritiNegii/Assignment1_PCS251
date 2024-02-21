@@ -31,8 +31,8 @@ void main() {
             i++;  // Ignore the largest element
             
         } else {
-            if (lrg2nd < arr1[i]) {
-                lrg2nd = arr1[i];
+            if (lrg2nd < arr[i]) {
+                lrg2nd = arr[i];
             }
         }
     }
