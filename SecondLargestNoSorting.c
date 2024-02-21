@@ -40,3 +40,17 @@ void main() {
     // Display the second largest element
     printf("The Second largest element in the array is :  %d \n\n", lrg2nd);
 }
+
+/*
+    OUTPUT
+Input the size of the array : 7
+Input 7 elements in the array :
+67
+89
+44
+56
+32
+12
+70
+The Second largest element in the array is :  70 
+*/
