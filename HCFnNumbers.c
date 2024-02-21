@@ -31,3 +31,17 @@ int main()
 
   return 0;
  }
+
+/*
+   OUTPUT
+Specify the amount of numbers whose HCF is to be calculated.
+4
+
+Enter 4 numbers whose HCF is to be calculated.
+832
+2836
+1248
+428
+
+The Highest Common Factor of the input numbers is 4.
+*/
